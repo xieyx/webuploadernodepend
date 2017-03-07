@@ -1,0 +1,2 @@
+# webuploadernodepend
+remove jquery depend
